@@ -1,0 +1,15 @@
+hello
+*.o
+*.exe
+*.out
+*.log
+*.obj
+*.dSYM
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.pdb
+*.cache
+*.vscode
