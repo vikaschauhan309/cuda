@@ -1,0 +1,5 @@
+*.o
+*.out
+*.exe
+test_matrix_add
+build/
